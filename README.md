@@ -2,7 +2,7 @@
 
 Este repositório contém um jogo interativo que simula o lançamento oblíquo de um objeto, explorando a influência da gravidade e da força viscosa no movimento do projétil. O objetivo do jogo é ajustar o ângulo e a velocidade inicial do lançamento para acertar um retângulo alvo na tela.
 
-![Image](https://github.com/user-attachments/assets/af98f358-2d70-4156-8e37-8650a3ab8e9e)
+![Image](https://github.com/user-attachments/assets/1769a548-6fc9-4519-be71-c45bc1235370)
 
 ## Funcionamento
 
