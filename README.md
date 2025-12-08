@@ -1,4 +1,4 @@
-# Jogo de Lançamento Oblicuo
+# Jogo de Lançamento Obliquo
 
 Este repositório contém um jogo interativo que simula o lançamento oblíquo de um objeto, explorando a influência da gravidade e da força viscosa no movimento do projétil. O objetivo do jogo é ajustar o ângulo e a velocidade inicial do lançamento para acertar um retângulo alvo na tela.
 
